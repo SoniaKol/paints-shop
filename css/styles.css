@@ -200,7 +200,9 @@ button {
 
   display: flex;
   align-items: center;
-  padding: 5px;
+  justify-content: center;
+  /* padding: 5px; */
+
   transform: translateY(100%);
   transition: transform 250ms ease-in-out;
 }
